@@ -5,7 +5,7 @@ const nextConfig = {
   },
   env: {
     NEXT_PUBLIC_BASE_URL:
-      "https://pos-project-server-mlciwym89-minhduydev.vercel.app",
+      "https://pos-project-server-8455mkban-minhduydev.vercel.app",
   },
 };
 
