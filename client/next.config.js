@@ -4,7 +4,7 @@ const nextConfig = {
     domains: ["source.unsplash.com", "s.gravatar.com", "res.cloudinary.com"],
   },
   env: {
-    NEXT_PUBLIC_BASE_URL: "https://pos-project-server-minhduydev.vercel.app/",
+    NEXT_PUBLIC_BASE_URL: "https://pos-project-server-minhduydev.vercel.app",
   },
 };
 
