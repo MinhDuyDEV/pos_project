@@ -18,7 +18,7 @@ app.use(express.static(__dirname));
 const { MONGO_URL } = process.env;
 
 //  Todo: Get text in /
-app.get("/", (req, res) => {
+app.use("/", (req, res) => {
   res.send("Hello World!");
 });
 
