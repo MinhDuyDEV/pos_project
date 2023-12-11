@@ -17,11 +17,6 @@ app.use(express.static(__dirname));
 
 const { MONGO_URL } = process.env;
 
-//  Todo: Get text in /
-app.use("/", (req, res) => {
-  res.send("Hello World!");
-});
-
 mongoose
   .connect(MONGO_URL)
   .then(() => console.log("Connect to mongoDB successfully"))
