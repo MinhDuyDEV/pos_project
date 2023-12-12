@@ -20,13 +20,13 @@ Open 2 terminal windows in the root directory of the project.
 - Window 1:
 
 ```bash
-cd source-code/client
+cd client
 ```
 
 - Window 2:
 
 ```bash
-cd source-code/server
+cd server
 ```
 
 ### 3. Project Settings
