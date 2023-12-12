@@ -1,4 +1,4 @@
-# Advanced Website (Point of Sale) - Final Project
+# Point of Sale
 
 ## Tech
 
